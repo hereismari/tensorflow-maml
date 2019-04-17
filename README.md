@@ -1,4 +1,4 @@
-# MAML reproduction using TensorFlow Eager mode
+# Reproduction of MAML using TensorFlow 1.10.0 and Eager Mode.
 
 Reproduction of MAML using TensorFlow 1.10.0 and Eager Mode.
 
