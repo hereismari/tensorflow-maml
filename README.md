@@ -4,7 +4,9 @@ This reproduction is highly influenced by the pytorch reproduction available by 
 
 ![alt-text-1](imgs/maml.png "MAML") ![alt-text-2](imgs/nn.png "Neural Net")
 
-![](imgs/maml_vs_nn.png)
+<p align="center">
+  <img width="350" height="250" src="imgs/maml_vs_nn.png">
+</p>
 
 ## MAML paper
 
