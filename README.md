@@ -2,6 +2,8 @@
 
 This reproduction is highly influenced by the pytorch reproduction by Adrien Lucas Effot available at [Paper repro: Deep Metalearning using “MAML” and “Reptile”](https://towardsdatascience.com/paper-repro-deep-metalearning-using-maml-and-reptile-fd1df1cc81b0).
 
+**MAML**   |   **Neural Net**
+
 ![alt-text-1](imgs/maml.png "MAML") ![alt-text-2](imgs/nn.png "Neural Net")
 
 <p align="center">
